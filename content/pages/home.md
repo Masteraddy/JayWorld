@@ -1,8 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+title: Jay World
+featuredImage: >-
+  https://ucarecdn.com/d16f0511-4607-4fe8-8a2c-0acfce1b94c5/-/crop/1722x1276/0,1033/-/preview/
 subtitle: ' Welcome to the Jay World. A blog for new online entrepreneurs.'
 meta:
   description: This is a meta description.
